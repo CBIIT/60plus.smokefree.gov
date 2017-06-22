@@ -1,0 +1,2 @@
+
+This directory structure contains non-database file content.
