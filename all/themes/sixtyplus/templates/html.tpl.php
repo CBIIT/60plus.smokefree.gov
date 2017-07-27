@@ -726,26 +726,26 @@ z-index:1001;
   
   <!-- Google analytics Events: Caurousel -->
 <script type="text/javascript"> 
-jQuery("#cauroselOne").on('click', function() {
-
-	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_1');
-});
-
-jQuery("#cauroselTwo").on('click', function() {
-
-	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_2');
-});
-
-jQuery("#cauroselThree").on('click', function() {
-
-	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_3');
-});
-
-jQuery("#cauroselFour").on('click', function() {
-
-	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_4');
-});
-      
+//jQuery("#cauroselOne").on('click', function() {
+//
+//	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_1');
+//});
+//
+//jQuery("#cauroselTwo").on('click', function() {
+//
+//	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_2');
+//});
+//
+//jQuery("#cauroselThree").on('click', function() {
+//
+//	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_3');
+//});
+//
+//jQuery("#cauroselFour").on('click', function() {
+//
+//	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_4');
+//});
+//      
         
 </script>
   <!-- //Google analytics Events: Caurousel -->        
