@@ -113,7 +113,7 @@
               <!-- Slide 3 -->
               <div class="item" id="cauroselThree"><a href="/quitplan"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-mobilequitplan.jpg" alt=""></a>
                 <div class="carousel-caption">
-                  <h3>Ready to quit? <a class="carousel-caption-link" href="/quitplan">Click here to start your quit plan online today. ></a></h3>
+                  <h3>Ready to quit? <a class="carousel-caption-link" href="/quitplan">Click here to start your quit plan online today.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 3 -->
