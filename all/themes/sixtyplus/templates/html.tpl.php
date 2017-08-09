@@ -726,22 +726,22 @@ z-index:1001;
   
   <!-- Google analytics Events: Caurousel -->
 <script type="text/javascript"> 
-jQuery("#cauroselOne").on('click', function() {
+jQuery("#carouselOne").on('click', function() {
 
 	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_1');
 });
 
-jQuery("#cauroselTwo").on('click', function() {
+jQuery("#carouselTwo").on('click', function() {
 
 	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_2');
 });
 
-jQuery("#cauroselThree").on('click', function() {
+jQuery("#carouselThree").on('click', function() {
 
 	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_3');
 });
 
-jQuery("#cauroselFour").on('click', function() {
+jQuery("#carouselFour").on('click', function() {
 
 	ga('send', 'event', 'CarouselShow', 'Clicked', 'Carousel_4');
 });
