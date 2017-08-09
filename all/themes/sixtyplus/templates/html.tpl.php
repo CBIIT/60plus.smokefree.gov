@@ -724,7 +724,7 @@ z-index:1001;
   <?php include("./sites/all/themes/sixtyplus/js/jquery-exit-confirm-dot-org-dot-com.js"); ?>  
   <?php include("./sites/all/themes/sixtyplus/js/survey-dialog/survey-dialog-script.js"); ?>  
   
-  <!-- Google analytics Events: Caurousel -->
+  <!-- Google analytics Events: Carousel -->
 <script type="text/javascript"> 
 jQuery("#carouselOne").on('click', function() {
 
@@ -748,7 +748,7 @@ jQuery("#carouselFour").on('click', function() {
       
         
 </script>
-  <!-- //Google analytics Events: Caurousel -->        
+  <!-- //Google analytics Events: Carousel -->        
         
         
 <script type="text/javascript"> 
