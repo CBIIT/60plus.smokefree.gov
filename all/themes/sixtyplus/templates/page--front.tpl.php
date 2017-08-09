@@ -97,28 +97,28 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
               <!-- Slide 1 -->
-              <div class="item active" id="cauroselOne"><a href="/healthier/lifestyle"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-sunflower.jpg" alt="A field of sunflowers."></a>
+              <div class="item active" id="carouselOne"><a href="/healthier/lifestyle"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-sunflower.jpg" alt="A field of sunflowers."></a>
                 <div class="carousel-caption">
                   <h3>Think of every day as a fresh start. <a class="carousel-caption-link" href="/healthier/lifestyle">If you slip today, try again tomorrow.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 1 -->
               <!-- Slide 2 -->
-              <div class="item" id="cauroselTwo"><a href="/quit/withdrawal"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-onestep.jpg" alt="Woman walking on a beach at sunset."></a>
+              <div class="item" id="carouselTwo"><a href="/quit/withdrawal"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-onestep.jpg" alt="Woman walking on a beach at sunset."></a>
                 <div class="carousel-caption">
                   <h3>Quitting might sound overwhelming. <a class="carousel-caption-link" href="/quit/withdrawal">Focus on one step at a time. Click here to learn more.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 2 -->
               <!-- Slide 3 -->
-              <div class="item" id="cauroselThree"><a href="/quitplan"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-mobilequitplan.jpg" alt=""></a>
+              <div class="item" id="carouselThree"><a href="/quitplan"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-mobilequitplan.jpg" alt=""></a>
                 <div class="carousel-caption">
                   <h3>Ready to quit? <a class="carousel-caption-link" href="/quitplan">Click here to start your quit plan online today.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 3 -->
               <!-- Slide 4 -->
-              <div class="item" id="cauroselFour"><a href="/support/quitline"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-call-number.jpg" alt="Call 1-800-44U-QUIT"></a>
+              <div class="item" id="carouselFour"><a href="/support/quitline"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-call-number.jpg" alt="Call 1-800-44U-QUIT"></a>
                 <div class="carousel-caption">
                   <h3>Need a little extra support? <a class="carousel-caption-link" href="/support/quitline">Call a quit line.></a></h3>
                 </div>
