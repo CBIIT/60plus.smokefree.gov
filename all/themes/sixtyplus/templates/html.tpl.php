@@ -748,8 +748,22 @@ jQuery("#carouselFour").on('click', function() {
       
         
 </script>
-  <!-- //Google analytics Events: Carousel -->        
+<!-- //Google analytics Events: Carousel -->        
+
+<!-- Google analytics Events: Text-rezize -->
+<script type="text/javascript"> 
+jQuery("#decfont").on('click', function() {
+
+	ga('send', 'event', 'TextResize', 'Clicked', 'DecTextSize');
+});
+
+jQuery("#incfont").on('click', function() {
+
+	ga('send', 'event', 'TextResize', 'Clicked', 'incTextSize');
+});
         
+</script>
+<!-- //Google analytics Events: Text-rezize -->    
         
 <script type="text/javascript"> 
 //jQuery(document).ready(function(){
@@ -1005,7 +1019,7 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/900095112/?guid=ON&amp;script=0"/>
 </div>
 </noscript>
-
+<!-- //Google Code for Remarketing Tag -->
 
 <?php //include("./sites/all/themes/sixtyplus/js/survey-dialog/jquery.confirm.js"); ?>
   
