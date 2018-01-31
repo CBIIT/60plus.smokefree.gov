@@ -97,30 +97,30 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
               <!-- Slide 1 -->
-              <div class="item active" id="carouselOne"><a href="/quit/loved-ones"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-snowman.jpg" alt="Grandmother, daughter and two grandchildren making a snowman."></a>
+              <div class="item active" id="carouselOne"><a href="/quit/loved-ones"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-couple-dancing.jpg" alt="Couple dancing under the trees."></a>
                 <div class="carousel-caption">
-                  <h3>Spending time with the family this holiday season? <a class="carousel-caption-link" href="/quit/loved-ones">Quit smoking for them.></a></h3>
+                  <h3><a class="carousel-caption-link" href="/quit/loved-ones">Quit for someone you love today.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 1 -->
 			  <!-- Slide 2 -->
-              <div class="item" id="cauroselTwo"><a href="/quitplan"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-goals.jpg" alt="Chalkboard with text reading 'Goals 2018. 1. 2. 3. 4.' "></a>
+              <div class="item" id="cauroselTwo"><a href="/quitplan"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-healtheffects.jpg" alt="Health effects of smoking infographic."></a>
                 <div class="carousel-caption">
-                  <h3>New year = New you. Have you made your resolutions yet? <a class="carousel-caption-link" href="/quitplan">Start your quit plan today.></a></h3>
+                  <h3>Heart disease can be caused by smoking. <a class="carousel-caption-link" href="/quitplan">Become heart healthy. Quit today!></a></h3>
                 </div>
               </div>
               <!-- END: Slide 2 -->
               <!-- Slide 3 -->
-              <div class="item" id="carouselThree"><a href="/quit/slip"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-ice-skates.jpg" alt="Ice skates hanging against a blue wall."></a>
+              <div class="item" id="carouselThree"><a href="/healthier/exercise"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-snowshoe.jpg" alt="Group snowshoeing."></a>
                 <div class="carousel-caption">
-                  <h3>Think of your quit attempt as practice. <a class="carousel-caption-link" href="/quit/slip">If you do slip, try again.></a></h3>
+                  <h3>Fight aging, weight gain and cravings with exercise. <a class="carousel-caption-link" href="/healthier/exercise">Learn more></a></h3>
                 </div>
               </div>
               <!-- END: Slide 3 -->
               <!-- Slide 4 -->
-              <div class="item" id="carouselFour"><a href="/quit"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-hotcoco.jpg" alt="A cup of hot chocolate on a flannel blanket dusted with snow."></a>
-                <div class="carousel-caption">
-                  <h3>Changing up your morning routine can help you handle cravings. <a class="carousel-caption-link" href="/quit">Learn more.></a></h3>
+              <div class="item" id="carouselFour"><a href="/support/friends-and-family"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-meet-other-quitters.jpg" alt="A group of friends smiling for the camera."></a>
+                <div class="carousel-caption" style="bottom:50px;">
+                  <h3>Tell your friends and family your plans to quit. <a class="carousel-caption-link" href="/support/friends-and-family">Learn how they can help.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 4 -->
