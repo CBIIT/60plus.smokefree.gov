@@ -97,30 +97,30 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
               <!-- Slide 1 -->
-              <div class="item active" id="carouselOne"><a href="/quitplan"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-flowers.jpg" alt="Spring flowers."></a>
+              <div class="item active" id="carouselOne"><a href="/quitplan"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-fireworks.jpg" alt="Fireworks in the night sky."></a>
                 <div class="carousel-caption">
-                  <h3>Spring into a healthier you. <a class="carousel-caption-link" href="/quitplan">Start your quit plan today!></a></h3>
+                  <h3>This July, pledge your independence from tobacco. <a class="carousel-caption-link" href="/quitplan">Start your quit plan today.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 1 -->
 			  <!-- Slide 2 -->
-              <div class="item" id="cauroselTwo"><a href="/quit/help-a-loved-one-quit"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-hifive.jpg" alt="Two men high fiving."></a>
+              <div class="item" id="cauroselTwo"><a href="/healthier/lifestyle"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-ice-cream.jpg" alt="A mother and daughter with ice cream cones."></a>
                 <div class="carousel-caption">
-                  <h3>Trying to help a loved one quit? <a class="carousel-caption-link" href="/quit/help-a-loved-one-quit">Learn more.></a></h3>
+                  <h3>Planning a vacation this summer? <a class="carousel-caption-link" href="/healthier/lifestyle">Stay smokefree away from home with these tips.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 2 -->
               <!-- Slide 3 -->
-              <div class="item" id="carouselThree"><a href="/quit/withdrawal"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-james.jpg" alt="A man playing the guitar."></a>
+              <div class="item" id="carouselThree"><a href="/quit/withdrawal"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-onestep.jpg" alt="Woman walking on a beach at sunset."></a>
                 <div class="carousel-caption">
-                  <h3>James' love for the guitar helped him with cravings. <a class="carousel-caption-link" href="/quit/withdrawal">Learn strategies that will work for you.></a></h3>
+                  <h3>Quitting might sound overwhelming. Focus on one step at a time. <a class="carousel-caption-link" href="/quit/withdrawal">Click here to learn more.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 3 -->
               <!-- Slide 4 -->
-              <div class="item" id="carouselFour"><a href="/resources/quizzes/nicotine-addiction-quiz"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-nicotine_quiz_brain.jpg" alt="Image of test."></a>
+              <div class="item" id="carouselFour"><a href="/quit/health"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-banff-2.jpg" alt="A lake and mountains."></a>
                 <div class="carousel-caption" style="bottom:50px;">
-                  <h3>Are you addicted to nicotine? <a class="carousel-caption-link" href="/resources/quizzes/nicotine-addiction-quiz">Take the quiz and find out!></a></h3>
+                  <h3>Breathe healthily, live happily. <a class="carousel-caption-link" href="/quit/health">Quit for your health.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 4 -->
