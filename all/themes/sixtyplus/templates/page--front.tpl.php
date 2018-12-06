@@ -97,9 +97,9 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
               <!-- Slide 1 -->
-              <div class="item active" id="carouselOne"><a href="/healthier/lifestyle"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-lifesaver.jpg" alt="A man and woman floating in a pool."></a>
+              <div class="item active" id="carouselOne"><a href="/support/friends-and-family"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-meet-other-quitters.jpg" alt="A group of friends smiling for the camera."></a>
                 <div class="carousel-caption">
-                  <h3>Planning an end of summer vacation? <a class="carousel-caption-link" href="/healthier/lifestyle">Stay smokefree away from home with these tips.></a></h3>
+                  <h3>Tell your friends and family your plans to quit. <a class="carousel-caption-link" href="/support/friends-and-family">Learn how they can help.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 1 -->
@@ -118,9 +118,9 @@
               </div>
               <!-- END: Slide 3 -->
               <!-- Slide 4 -->
-              <div class="item" id="carouselFour"><a href="/quit/tools"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-goals-450h.jpg" alt="Chalkboard with text reading 'Goals 2018. 1. 2. 3.'"></a>
+              <div class="item" id="carouselFour"><a href="/quit/withdrawal"> <img src="<?php print $directory; ?>/images/carousel/sf-60plus-carousel-onestep.jpg" alt="Woman walking on a beach at sunset."></a>
                 <div class="carousel-caption" style="bottom:50px;">
-                  <h3>We are over half-way through 2018! <a class="carousel-caption-link" href="/quit/tools">Here are some tools to help reach your goal to quit.></a></h3>
+                  <h3>Quitting might sound overwhelming. Focus on one step at a time. <a class="carousel-caption-link" href="/quit/withdrawal">Click here to learn more.></a></h3>
                 </div>
               </div>
               <!-- END: Slide 4 -->
